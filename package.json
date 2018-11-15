@@ -1,7 +1,7 @@
 {
   "name": "vue-cityselector",
   "description": "a simple city selector for vue",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "chris.huang",
   "license": "MIT",
   "private": false,

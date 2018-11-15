@@ -294,7 +294,7 @@ export default {
           padding: 6px 16px;
           text-align: center;
           float: left;
-          width: 10%;
+          width: 90px;
           > span {
             @extend.city-item-span; 
           }
